@@ -1,3 +1,4 @@
+# GoldMines Game
 <<<<<<< HEAD
 # 🎮 GoldMines Game
 
