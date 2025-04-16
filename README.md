@@ -80,6 +80,3 @@ GoldMinesGame/
 ## 👥 Авторы
 
 -[@harryshapor](https://github.com/harryshapor)
-=======
-# GoldMines Game
->>>>>>> c1f6910727248cf35795e021c25d992beacd1454
