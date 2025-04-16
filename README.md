@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 GoldMines Game
 
 ![Java](https://img.shields.io/badge/Java-17-red.svg)
@@ -77,4 +78,7 @@ GoldMinesGame/
 
 ## 👥 Авторы
 
-- Ваше имя - [@ваш_github](https://github.com/harryshapor)
+-[@harryshapor](https://github.com/harryshapor)
+=======
+# GoldMines Game
+>>>>>>> c1f6910727248cf35795e021c25d992beacd1454
